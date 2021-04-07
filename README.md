@@ -3,14 +3,14 @@
 ## About
 
 ### Contact Information
-* Email: `charleskhanhhall@me.com`
-* Phone: `678-458-5097`
-* [LinkedIn](https://www.linkedin.com/in/charles-h-b6581b168/)
+  * Email: `charleskhanhhall@me.com`
+  * Phone: `678-458-5097`
+  * [LinkedIn](https://www.linkedin.com/in/charles-h-b6581b168/)
 
 ### Education
-* University of North Georgia (2016-2018)
-* University of Georgia (2018-2020)
-* B.S. Computer Science
+  * University of North Georgia (2016-2018)
+  * University of Georgia (2018-2020)
+  * B.S. Computer Science
 
 ### Summary
 TODO
@@ -32,15 +32,15 @@ Proficient in Full-Stack Development using Java, Spring Boot, JPA/Hibernate, Ang
 ### Georgia State Games Commission
 #### Computer Science Executive Committee Chairman
 ##### March 2020 - August 2020
-* Directed and implemented various projects with a team of approximately 20 interns
-* Managed the Georgia State Games website
-* Met with upper-level management via Zoom and communicated project deadlines and expectations
+  * Directed and implemented various projects with a team of approximately 20 interns
+  * Managed the Georgia State Games website
+  * Met with upper-level management via Zoom and communicated project deadlines and expectations
 
 ### N4Mative LLC
 #### Software Development Intern
 ##### May 2018 - July 2018
-* Assisted in development of medical-based web application
-* Worked with a team to implement file upload functionality
+  * Assisted in development of medical-based web application
+  * Worked with a team to implement file upload functionality
 
 
 
