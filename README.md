@@ -5,7 +5,7 @@
 ### Contact Information
 * Email: `charleskhanhhall@me.com`
 * Phone: `678-458-5097`
-* LinkedIn: https://www.linkedin.com/in/charles-h-b6581b168/
+* [LinkedIn](https://www.linkedin.com/in/charles-h-b6581b168/)
 
 ### Education
 * University of North Georgia (2016-2018)
