@@ -16,6 +16,8 @@
 TODO
 Proficient in Full-Stack Development using Java, Spring Boot, JPA/Hibernate, Angular, and Vue. Graduated from the University of Georgia with a Bachelor of Science in Computer Science.
 
+___
+
 ## Projects
 
 ### [MyLeague](https://github.com/charleshall1998/LeagueApplication)
@@ -27,6 +29,8 @@ Proficient in Full-Stack Development using Java, Spring Boot, JPA/Hibernate, Ang
 #### Contributor
 
 [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise) is a full-stack application developed using Spring Boot, JPA/Hibernate, and Vue. It is a mock-up of AirBnb, particularly the listing page. I was responsible for the amenities component of the page. The purpose of this project was to practice new technologies and practice working with a team to develop a project using Github as a remote repository as well as use an Agile development process.
+
+___
 
 ## Experience
 ### [Georgia State Games Commission](https://georgia.gov/organization/georgia-state-games-commission)
